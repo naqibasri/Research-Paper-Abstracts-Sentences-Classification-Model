@@ -1,0 +1,14 @@
+tensorflow
+pandas
+numpy
+matplotlib
+keras
+notebook
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+fastapi==0.78.0
+uvicorn==0.18.3
+Jinja2==3.1.2
+-e .
